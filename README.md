@@ -12,6 +12,11 @@ Language and tools I use:
 
 [![Анастасия Савельева profile views](https://u8views.com/api/v1/github/profiles/113490138/views/day-week-month-total-count.svg)](https://u8views.com/github/Esperansa08)
 
+## Statistics:
+Карточка профиля: 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esperansa08&theme=solarized)
+
 ### Contact Me
 
 - Telegram: [@Esperansa09](https://t.me/Esperansa09)
