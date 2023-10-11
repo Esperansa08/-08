@@ -10,9 +10,9 @@ Language and tools I use:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+## Statistics:
 [![Анастасия Савельева profile views](https://u8views.com/api/v1/github/profiles/113490138/views/day-week-month-total-count.svg)](https://u8views.com/github/Esperansa08)
 
-## Statistics:
 Карточка профиля: 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esperansa08&theme=transparent)
