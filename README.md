@@ -1,5 +1,5 @@
-### Hi there 👋 I am AnastasiA, Python developer.
-
+### Hi there 👋 My name is Anastasia
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3366FF&lines=I+am+Backend+developer)](https://git.io/typing-svg)
 Language and tools I use: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -15,7 +15,7 @@ Language and tools I use:
 ## Statistics:
 Карточка профиля: 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esperansa08&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esperansa08&theme=transparent)
 
 ### Contact Me
 
